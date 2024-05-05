@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Alexander Tarasov
-## Full Stack Developer
+## Hi there 👋 I'm Alexander Tarasov
+### Full Stack Developer
 <a href="https://wakatime.com/@018da6e4-f752-467a-bd6f-3a12e2c909fb"><img src="https://wakatime.com/badge/user/018da6e4-f752-467a-bd6f-3a12e2c909fb.svg" alt="Total time coded since Feb 14 2024" /></a>
 <!--
 **tarasov1812/tarasov1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
