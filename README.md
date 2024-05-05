@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarasov1812" alt="tarasov1812" /></a> </p>
 <a href="https://wakatime.com/@018da6e4-f752-467a-bd6f-3a12e2c909fb"><img src="https://wakatime.com/badge/user/018da6e4-f752-467a-bd6f-3a12e2c909fb.svg" alt="Total time coded since Feb 14 2024" /></a>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarasov1812&show_icons=true&locale=en&layout=compact&hide=c%23" alt="idevelopthings" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarasov1812&" alt="idevelopthings" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tarasov1812&show_icons=true&locale=en" alt="idevelopthings" /></p>
 
