@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from Russia living in Spain</h3>
 <a href="https://wakatime.com/@018da6e4-f752-467a-bd6f-3a12e2c909fb"><img src="https://wakatime.com/badge/user/018da6e4-f752-467a-bd6f-3a12e2c909fb.svg" alt="Total time coded since Feb 14 2024" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasov1812&label=Profile%20views&color=0e75b6&style=flat" alt="tarasov1812" /> </p>
-
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarasov1812&" alt="tarasov1812" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarasov1812&show_icons=true&locale=en&layout=compact&hide=c%23" alt="tarasov1812" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tarasov1812&show_icons=true&locale=en" alt="tarasov1812" /></p>
