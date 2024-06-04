@@ -5,6 +5,7 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarasov1812&" alt="tarasov1812" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarasov1812&show_icons=true&locale=en&layout=compact&hide=c%23" alt="tarasov1812" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tarasov1812&show_icons=true&locale=en" alt="tarasov1812" /></p>
+
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarasov1812" alt="tarasov1812" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
